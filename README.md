@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dio Fathur
 - 👀 I’m interested in Cloud Infrastructure
-- 🌱 I’m currently learning Cloud Engineer
+- 🌱 I’m currently learning Cloud Engineer and DevOps
 - 📫 How to reach me https://www.linkedin.com/in/diofathurr/
 
 <!---
